@@ -1,4 +1,13 @@
 {
-    "name": "hexlet/code",
-    "require": {}
+  "name": "hexlet/php-package",
+  "bin": ["bin/brain-games"],
+  "type": "library",
+  "authors": [
+    {
+      "name": "Pakshin Web",
+      "email": "pakshin.web@gmail.com"
+    }
+  ],
+  "description": "hexlet php-package",
+  "license": "MIT"
 }
